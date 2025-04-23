@@ -29,7 +29,7 @@ Cette solution en C++ résout le problème **Encode and Decode Strings** de Leet
 
 ## Auteur
 
-[tonNomUtilisateur] - Ingénieur en formation, passionné par les algorithmes et LeetCode.
+[ ELHAMDOUCHI ILYASSE ] - Ingénieur en formation, passionné par les algorithmes et LeetCode.
 ```
 
 ### Instructions
